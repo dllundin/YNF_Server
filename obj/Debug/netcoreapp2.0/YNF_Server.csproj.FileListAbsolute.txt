@@ -1,0 +1,11 @@
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\bin\Debug\netcoreapp2.0\YNF_Server.deps.json
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\bin\Debug\netcoreapp2.0\YNF_Server.runtimeconfig.json
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\bin\Debug\netcoreapp2.0\YNF_Server.runtimeconfig.dev.json
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\bin\Debug\netcoreapp2.0\YNF_Server.dll
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\obj\Debug\netcoreapp2.0\YNF_Server.csprojResolveAssemblyReference.cache
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\obj\Debug\netcoreapp2.0\YNF_Server.csproj.CoreCompileInputs.cache
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\obj\Debug\netcoreapp2.0\YNF_Server.AssemblyInfoInputs.cache
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\obj\Debug\netcoreapp2.0\YNF_Server.AssemblyInfo.cs
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\bin\Debug\netcoreapp2.0\YNF_Server.pdb
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\obj\Debug\netcoreapp2.0\YNF_Server.dll
+C:\Users\dlundin\source\repos\YNF_Server\YNF_Server\obj\Debug\netcoreapp2.0\YNF_Server.pdb
